@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+#cajeroPantalla {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #5c5b5b;
+    border-radius: 8px;
+    background-color: #c7c4c4;
+}
+
+#operaciones {
+    display: none;
+}
+
+#resultado {
+    display: none;
+    margin-top: 10px;
+    font-weight: bold;
+}
